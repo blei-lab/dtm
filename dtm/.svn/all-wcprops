@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/dtm_release/dtm
+END
+lda.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/dtm_release/dtm/lda.c
+END
+ss-lm.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/dtm_release/dtm/ss-lm.h
+END
+param.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/dtm_release/dtm/param.c
+END
+lda.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/dtm_release/dtm/lda.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/dtm_release/dtm/param.h
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dtm_release/dtm/data.c
+END
+sample.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/dtm_release/dtm/sample.sh
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dtm_release/dtm/util.c
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dtm_release/dtm/data.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dtm_release/dtm/util.h
+END
+params.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/dtm_release/dtm/params.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/dtm_release/dtm/main.c
+END
+lda-seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/dtm_release/dtm/lda-seq.c
+END
+gsl-wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/dtm/gsl-wrappers.c
+END
+params.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/dtm_release/dtm/params.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dtm_release/dtm/main.h
+END
+gsl-wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/dtm/gsl-wrappers.h
+END
+lda-seq.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/dtm_release/dtm/lda-seq.h
+END
+ss-lm.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/dtm_release/dtm/ss-lm.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/dtm_release/dtm/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python
+END
+test_module_bar.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python/test_module_bar.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python/setup.py
+END
+gflags2man.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python/gflags2man.py
+END
+gflags_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python/gflags_unittest.py
+END
+gflags.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python/gflags.py
+END
+test_module_foo.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/python/test_module_foo.py
+END

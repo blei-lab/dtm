@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps
+END
+gflags_unittest-gflags_unittest.Po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/gflags_unittest-gflags_unittest.Po
+END
+gflags_unittest.Po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/gflags_unittest.Po
+END
+libgflags_nothreads_la-gflags_reporting.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/libgflags_nothreads_la-gflags_reporting.Plo
+END
+libgflags_la-gflags.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/libgflags_la-gflags.Plo
+END
+gflags_unittest-main.Po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/gflags_unittest-main.Po
+END
+libgflags_nothreads_la-gflags_completions.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/libgflags_nothreads_la-gflags_completions.Plo
+END
+gflags_unittest_main.Po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/gflags_unittest_main.Po
+END
+libgflags_nothreads_la-gflags.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/libgflags_nothreads_la-gflags.Plo
+END
+libgflags_la-gflags_reporting.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/libgflags_la-gflags_reporting.Plo
+END
+libgflags_la-gflags_completions.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/.deps/libgflags_la-gflags_completions.Plo
+END

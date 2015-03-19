@@ -1,0 +1,153 @@
+#!/bin/sh
+
+# this is shamelessly stolen from imlib3d-config :-) which is :
+# this is shamelessly stolen from gtkmm-config :-)
+
+prefix=/n/fs/topics/lib/gslwrap
+exec_prefix=${prefix}
+top_srcdir=.
+
+libdir=${exec_prefix}/lib
+
+bindir=${exec_prefix}/bin
+pkglibdir=${libdir}/gslwrap
+
+transform=s,x,x,
+
+
+gslwrap_libs="-L${exec_prefix}/lib -lgslwrap -L/n/fs/topics/lib/gsl/lib -lgsl -lgslcblas -lm"
+gslwrap_cflags="-I${prefix}/include -I${prefix}/include/gslwrap -I/n/fs/topics/lib/gsl/include "
+
+
+usage()
+{
+    cat <<EOF
+Usage: gslwrap-config [OPTION]... [LIBRARY]...
+
+Generic options
+  --version     output gslwrap version information
+  --help        display this help and exit
+
+Compilation support options
+  --cflags      print compiler flags
+  --libs        print library linking information
+  --libs-only-L only print the -L/-R part of --libs
+  --libs-only-l only print the -l part of --libs
+
+Known values for LIBRARY are:
+
+    gslwrap
+
+EOF
+
+    exit $1
+}
+
+if test $# -eq 0; then
+    usage 1
+fi
+
+cflags=false
+libs_L=false
+libs_l=false
+
+any=no
+
+while test $# -gt 0; do
+    case "$1" in
+    -*=*) optarg=`echo "$1" | sed 's/[-_a-zA-Z0-9]*=//'` ;;
+    *) optarg= ;;
+    esac
+
+    case $1 in
+    --version)
+        echo 0.2
+        exit 0
+        ;;
+    --help)
+        usage 0
+        ;;
+    --prefix=*)
+	prefix=$optarg
+        ;;
+    --cflags)
+        cflags=true
+        ;;
+    --libs)
+        libs_L=true
+        libs_l=true
+        ;;
+    --libs-only-L)
+        libs_L=true
+        ;;
+    --libs-only-l)
+        libs_l=true
+        ;;
+    gslwrap)
+        the_libs="-L${exec_prefix}/lib -lgslwrap -L/n/fs/topics/lib/gsl/lib -lgsl -lgslcblas -lm"
+        the_flags="-I${prefix}/include -I${prefix}/include/gslwrap -I/n/fs/topics/lib/gsl/include "
+        any=yes
+        ;;
+    *)
+        usage 1
+        ;;
+    esac
+    shift
+done
+
+# default to gtk-- for backward compatibility
+# (should be removed some time in the future)
+if test "x$any" = xno; then
+   the_libs="$the_libs $gslwrap_libs"
+   the_flags="$the_flags $gslwrap_cflags"
+fi
+
+if $cflags; then
+    all_flags="$the_flags"
+fi
+
+if $libs_L || $libs_l; then
+    all_flags="$all_flags $the_libs"
+fi
+
+if test -z "$all_flags" || test "x$all_flags" = "x "; then
+    exit 1
+fi
+
+# Straight out any possible duplicates, but be careful to
+# get `-lfoo -lbar -lbaz' for `-lfoo -lbaz -lbar -lbaz'
+other_flags=
+lib_L_flags=
+rev_libs=
+for i in $all_flags; do
+    case "$i" in
+    # a library, save it for later, in reverse order
+    -l*) rev_libs="$i $rev_libs" ;;
+    -L*|-R*)
+        if $libs_L; then
+            case " $lib_L_flags " in
+            *\ $i\ *) ;;                        # already there
+            *) lib_L_flags="$lib_L_flags $i" ;; # add it to output
+            esac 
+        fi;;
+    *)
+        case " $other_flags " in
+        *\ $i\ *) ;;                            # already there
+        *) other_flags="$other_flags $i" ;;     # add it to output
+        esac ;;
+    esac
+done
+
+ord_libs=
+if $libs_l; then
+    for i in $rev_libs; do
+        case " $ord_libs " in
+        *\ $i\ *) ;;                    # already there
+        *) ord_libs="$i $ord_libs" ;;   # add it to output in reverse order
+        esac
+    done
+fi
+
+echo $other_flags $lib_L_flags $ord_libs
+
+exit 0

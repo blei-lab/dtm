@@ -1,0 +1,19 @@
+./main \
+  --mode=fit \
+  --model=fixed \
+  --corpus_prefix=/n/fs/topics/users/sgerrish/data/docinf/data/nature_data/test_corpus_train \
+  --outname=/n/fs/topics/users/sgerrish/data/docinf/data/test_data \
+  --root_directory=/n/fs/topics/users/sgerrish/data/docinf/data/test_data \
+  --prp_obs_var=0.5 \
+  --top_obs_var=0.5 \
+  --phi_squared_factor=1.0 \
+  --prp_chain_var=0.5 \
+  --top_chain_var=0.005 \
+  --alpha=0.01 \
+  --influence_mean_years=20 \
+  --influence_mean_years=20 \
+  --sigma_d=0.1 \
+  --new_phi=true \
+  --ntopics=5 \
+  --number_tasks=10 \
+  --lda_max_em_iter=10

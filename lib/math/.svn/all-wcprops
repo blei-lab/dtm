@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/dtm_release/lib/math
+END
+gsl_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/gsl_matrix.h
+END
+gradient_projection.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/gradient_projection.h
+END
+specialfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/specialfunc.h
+END
+logspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/logspace.h
+END
+optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/optimizer.h
+END
+logspace_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/logspace_base.cpp
+END
+gradient_projection_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/gradient_projection_test.cpp
+END
+vectorops.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/vectorops.h
+END
+gradient_projection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/gradient_projection.cpp
+END
+logspace_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/logspace_base.h
+END
+specialfunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/specialfunc.cpp
+END
+gsl_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/gsl_vector.h
+END
+logspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/lib/math/logspace.cpp
+END

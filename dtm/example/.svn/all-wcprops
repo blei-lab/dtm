@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/dtm_release/dtm/example
+END
+test-mult.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/dtm_release/dtm/example/test-mult.dat
+END
+test-seq.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/dtm_release/dtm/example/test-seq.dat
+END

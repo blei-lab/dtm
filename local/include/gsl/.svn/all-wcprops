@@ -1,0 +1,1295 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl
+END
+gsl_matrix_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_uchar.h
+END
+gsl_permute_vector_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_float.h
+END
+gsl_block_complex_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_complex_long_double.h
+END
+gsl_permute_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_int.h
+END
+gsl_sf_gegenbauer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_gegenbauer.h
+END
+gsl_sf_airy.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_airy.h
+END
+gsl_block_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_ulong.h
+END
+gsl_permute_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_uchar.h
+END
+gsl_linalg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_linalg.h
+END
+gsl_roots.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_roots.h
+END
+gsl_monte_vegas.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_monte_vegas.h
+END
+gsl_permutation.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permutation.h
+END
+gsl_matrix_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_ushort.h
+END
+gsl_statistics_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_short.h
+END
+gsl_nan.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_nan.h
+END
+gsl_permute_vector_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_int.h
+END
+gsl_sf_legendre.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_legendre.h
+END
+gsl_permute_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_char.h
+END
+gsl_vector_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_complex_float.h
+END
+gsl_sf_lambert.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_lambert.h
+END
+gsl_block_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_float.h
+END
+gsl_monte_miser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_monte_miser.h
+END
+gsl_sort_vector_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_int.h
+END
+gsl_matrix_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_short.h
+END
+gsl_block_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_double.h
+END
+gsl_const.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_const.h
+END
+gsl_statistics_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_uint.h
+END
+gsl_permute_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_long_double.h
+END
+gsl_sort_vector_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_uchar.h
+END
+gsl_permute_vector_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_double.h
+END
+gsl_sf_expint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_expint.h
+END
+gsl_permute_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_short.h
+END
+gsl_fft_halfcomplex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft_halfcomplex.h
+END
+gsl_sort_vector_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_char.h
+END
+gsl_complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_complex.h
+END
+gsl_statistics_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_long.h
+END
+gsl_sf_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_log.h
+END
+gsl_block_complex_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_complex_double.h
+END
+gsl_vector_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_int.h
+END
+gsl_permute_vector_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_long_double.h
+END
+gsl_matrix_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_int.h
+END
+gsl_dht.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_dht.h
+END
+gsl_permute_vector_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_complex_float.h
+END
+gsl_monte.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_monte.h
+END
+gsl_sf_clausen.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_clausen.h
+END
+gsl_sort_vector_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_long_double.h
+END
+gsl_sf_dawson.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_dawson.h
+END
+gsl_sf_psi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_psi.h
+END
+gsl_sf_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_transport.h
+END
+gsl_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_message.h
+END
+gsl_permute_vector_complex_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_complex_double.h
+END
+gsl_rng.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_rng.h
+END
+gsl_sf_coulomb.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_coulomb.h
+END
+gsl_sort_vector_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_short.h
+END
+gsl_statistics_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_ulong.h
+END
+gsl_combination.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_combination.h
+END
+gsl_const_num.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_const_num.h
+END
+gsl_block_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_complex_float.h
+END
+gsl_vector_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_ushort.h
+END
+gsl_matrix_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_ulong.h
+END
+gsl_deriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_deriv.h
+END
+gsl_sort_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_uchar.h
+END
+gsl_sf_gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_gamma.h
+END
+gsl_vector_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_long_double.h
+END
+gsl_permute_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_double.h
+END
+gsl_matrix_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_long_double.h
+END
+gsl_statistics_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_float.h
+END
+gsl_permute_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_uint.h
+END
+gsl_sort_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_double.h
+END
+gsl_sf_exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_exp.h
+END
+gsl_statistics_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_double.h
+END
+gsl_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_errno.h
+END
+gsl_permute_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_ulong.h
+END
+gsl_dft_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_dft_complex_float.h
+END
+gsl_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_math.h
+END
+gsl_vector_complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_complex.h
+END
+gsl_matrix_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_float.h
+END
+gsl_sf_zeta.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_zeta.h
+END
+gsl_wavelet2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_wavelet2d.h
+END
+gsl_histogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_histogram.h
+END
+gsl_vector_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_char.h
+END
+gsl_permute_vector_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_char.h
+END
+gsl_permute_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_long.h
+END
+gsl_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector.h
+END
+gsl_permute_complex_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_complex_double.h
+END
+gsl_sort_vector_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_double.h
+END
+gsl_dft_complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_dft_complex.h
+END
+gsl_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix.h
+END
+gsl_block_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_int.h
+END
+gsl_machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_machine.h
+END
+gsl_sf_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_result.h
+END
+gsl_odeiv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_odeiv.h
+END
+gsl_fft_complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft_complex.h
+END
+gsl_sort_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_short.h
+END
+gsl_permute_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_float.h
+END
+gsl_fft_real_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft_real_float.h
+END
+gsl_sort_vector_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_uint.h
+END
+gsl_multifit_nlin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_multifit_nlin.h
+END
+gsl_sort_vector_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_ulong.h
+END
+gsl_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft.h
+END
+gsl_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_test.h
+END
+gsl_histogram2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_histogram2d.h
+END
+gsl_sf_mathieu.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_mathieu.h
+END
+gsl_vector_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_uchar.h
+END
+gsl_heapsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_heapsort.h
+END
+gsl_eigen.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_eigen.h
+END
+gsl_sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort.h
+END
+gsl_sort_vector_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_long.h
+END
+gsl_spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_spline.h
+END
+gsl_bspline.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_bspline.h
+END
+gsl_sf_trig.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_trig.h
+END
+gsl_sf_elementary.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_elementary.h
+END
+gsl_sort_vector_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_float.h
+END
+gsl_sf_laguerre.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_laguerre.h
+END
+gsl_block_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_ushort.h
+END
+gsl_const_mks.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_const_mks.h
+END
+gsl_interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_interp.h
+END
+gsl_block_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_long_double.h
+END
+gsl_sf_erf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_erf.h
+END
+gsl_siman.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_siman.h
+END
+gsl_ntuple.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_ntuple.h
+END
+gsl_sf_pow_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_pow_int.h
+END
+gsl_permute_vector_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_ushort.h
+END
+gsl_sf_ellint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_ellint.h
+END
+gsl_sf_debye.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_debye.h
+END
+gsl_matrix_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_complex_float.h
+END
+gsl_vector_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_short.h
+END
+gsl_blas.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_blas.h
+END
+gsl_permute_complex_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_complex_long_double.h
+END
+gsl_fit.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fit.h
+END
+gsl_integration.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_integration.h
+END
+gsl_min.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_min.h
+END
+gsl_poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_poly.h
+END
+gsl_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_mode.h
+END
+gsl_sort_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_char.h
+END
+gsl_permute_vector_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_uchar.h
+END
+gsl_block_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_char.h
+END
+gsl_check_range.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_check_range.h
+END
+gsl_block.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block.h
+END
+gsl_precision.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_precision.h
+END
+gsl_sort_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_ulong.h
+END
+gsl_cdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_cdf.h
+END
+gsl_multifit.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_multifit.h
+END
+gsl_permute_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_complex_float.h
+END
+gsl_matrix_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_double.h
+END
+gsl_multimin.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_multimin.h
+END
+gsl_const_cgsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_const_cgsm.h
+END
+gsl_matrix_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_char.h
+END
+gsl_vector_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_uint.h
+END
+gsl_permute_vector_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_uint.h
+END
+gsl_permute_vector_complex_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_complex_long_double.h
+END
+gsl_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_types.h
+END
+gsl_statistics_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_int.h
+END
+gsl_sf_bessel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_bessel.h
+END
+gsl_monte_plain.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_monte_plain.h
+END
+gsl_specfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_specfunc.h
+END
+gsl_block_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_uchar.h
+END
+gsl_sort_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_float.h
+END
+gsl_complex_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_complex_math.h
+END
+gsl_sf_synchrotron.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_synchrotron.h
+END
+gsl_vector_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_long.h
+END
+gsl_permute.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute.h
+END
+gsl_permute_vector_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_short.h
+END
+gsl_permute_vector_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_long.h
+END
+gsl_matrix_complex_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_complex_double.h
+END
+gsl_permute_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_ushort.h
+END
+gsl_sf_hyperg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_hyperg.h
+END
+gsl_sort_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_ushort.h
+END
+gsl_statistics_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_ushort.h
+END
+gsl_sort_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_int.h
+END
+gsl_vector_complex_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_complex_long_double.h
+END
+gsl_permute_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector.h
+END
+gsl_statistics_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_long_double.h
+END
+gsl_matrix_complex_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_complex_long_double.h
+END
+gsl_blas_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_blas_types.h
+END
+gsl_vector_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_ulong.h
+END
+gsl_wavelet.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_wavelet.h
+END
+gsl_sf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf.h
+END
+gsl_sf_coupling.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_coupling.h
+END
+gsl_sort_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector.h
+END
+gsl_block_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_short.h
+END
+gsl_sort_vector_ushort.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_vector_ushort.h
+END
+gsl_multiroots.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_multiroots.h
+END
+gsl_sf_elljac.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_elljac.h
+END
+gsl_cblas.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_cblas.h
+END
+gsl_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_version.h
+END
+gsl_sf_dilog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_dilog.h
+END
+gsl_sort_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_uint.h
+END
+gsl_fft_halfcomplex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft_halfcomplex_float.h
+END
+gsl_statistics_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_char.h
+END
+gsl_vector_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_float.h
+END
+gsl_ieee_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_ieee_utils.h
+END
+gsl_block_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_uint.h
+END
+gsl_statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics.h
+END
+gsl_fft_complex_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft_complex_float.h
+END
+gsl_sf_fermi_dirac.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sf_fermi_dirac.h
+END
+gsl_vector_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_double.h
+END
+gsl_sort_long_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_long_double.h
+END
+gsl_const_mksa.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_const_mksa.h
+END
+gsl_matrix_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_uint.h
+END
+gsl_sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sum.h
+END
+gsl_randist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_randist.h
+END
+gsl_sort_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sort_long.h
+END
+gsl_permute_vector_ulong.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_permute_vector_ulong.h
+END
+gsl_qrng.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_qrng.h
+END
+gsl_diff.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_diff.h
+END
+gsl_block_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_block_long.h
+END
+gsl_statistics_uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_statistics_uchar.h
+END
+gsl_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_sys.h
+END
+gsl_pow_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_pow_int.h
+END
+gsl_chebyshev.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_chebyshev.h
+END
+gsl_const_cgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_const_cgs.h
+END
+gsl_fft_real.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_fft_real.h
+END
+gsl_vector_complex_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_vector_complex_double.h
+END
+gsl_matrix_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/local/include/gsl/gsl_matrix_long.h
+END

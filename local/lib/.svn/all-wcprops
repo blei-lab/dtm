@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/dtm_release/local/lib
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/Makefile.in
+END
+wnutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/wnutil.c
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/search.c
+END
+morph.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/morph.c
+END
+wnglobal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/wnglobal.c
+END
+wnrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/wnrtl.c
+END
+binsrch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/binsrch.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/Makefile.am
+END
+wnhelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/local/lib/wnhelp.c
+END

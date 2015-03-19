@@ -1,0 +1,10 @@
+prefix=/n/fs/grad/jbg/.local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: GSL
+Description: GNU Scientific Library
+Version: 1.10
+Libs: -L${exec_prefix}/lib -lgsl -lgslcblas -lm 
+Cflags: -I${prefix}/include

@@ -1,0 +1,28 @@
+***************************
+Document Influence Model and Dynamic Topic Models
+***************************
+
+This code is the result of work by 
+
+David M. Blei
+blei[at]cs.princeton.edu
+
+and
+
+Sean M Gerrish
+sgerrish[at]cs.princeton.edu.
+
+(C) Copyright 2006, David M. Blei
+   (blei [at] cs [dot] princeton [dot] edu)
+
+(C) Copyright 2009, 2010, Sean M. Gerrish
+   (sgerrish [at] cs [dot] princeton [dot] edu)
+
+This directory contains an implementation of the dynamic influence
+model intended to be run on a cluster of computers.  Compiling and
+running this software has not been tested on other computers.  It is
+therefore supported in no manner.
+
+This implementation was designed with a PBS cluster in mind, with a
+driver to be run on the head node.  If you are using a different
+cluster, you can modify the cluster interface in c2_lib.c.

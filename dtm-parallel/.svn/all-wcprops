@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel
+END
+lda.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/lda.c
+END
+main-fit_seq_topics.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main-fit_seq_topics.h
+END
+lda.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/lda.h
+END
+ss-lm-fit_seq_topics.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/ss-lm-fit_seq_topics.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/util.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/util.h
+END
+main-fit_seq_docs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main-fit_seq_docs.c
+END
+gsl-wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/gsl-wrappers.c
+END
+c2_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/c2_lib.c
+END
+ss-lm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/ss-lm.c
+END
+gsl-wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/gsl-wrappers.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/Makefile
+END
+c2_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/c2_lib.h
+END
+param.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/param.c
+END
+ss-lm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/ss-lm.h
+END
+TEST_ROADMAP
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/TEST_ROADMAP
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/param.h
+END
+strutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/strutil.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/data.c
+END
+strutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/strutil.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/README
+END
+main-lda-e-step.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main-lda-e-step.c
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/data.h
+END
+params.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/params.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main.c
+END
+main-lda-m-step.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main-lda-m-step.c
+END
+lda-seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/lda-seq.c
+END
+params.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/params.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main.h
+END
+lda-seq.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/lda-seq.h
+END
+main-aggregate-ss.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main-aggregate-ss.c
+END
+main-fit_seq_topics.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/dtm_release/dtm-parallel/main-fit_seq_topics.c
+END

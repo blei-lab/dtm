@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/Makefile.in
+END
+gflags_unittest2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/gflags_unittest2
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/config.log
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/AUTHORS
+END
+gflags_unittest3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/gflags_unittest3
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/depcomp
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/config.status
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/README
+END
+removed.files
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/removed.files
+END
+gflags_unittest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/gflags_unittest
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/configure.ac
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/libtool
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/COPYING
+END
+gflags_nothreads_unittest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/gflags_nothreads_unittest
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/dtm_release/lib/util/gflags-1.1/install-sh
+END

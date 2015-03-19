@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap
+END
+matrix_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/matrix_float.h
+END
+vector_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/vector_double.h
+END
+min_fminimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/min_fminimizer.h
+END
+vector_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/vector_int.h
+END
+histogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/histogram.h
+END
+matrix_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/matrix_int.h
+END
+matrix_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/matrix_double.h
+END
+multimin_fdfminimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/multimin_fdfminimizer.h
+END
+matrix_vector_operators.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/matrix_vector_operators.h
+END
+random_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/random_generator.h
+END
+permutation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/permutation.h
+END
+random_number_distribution.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/random_number_distribution.h
+END
+vector_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/dtm_release/gslwrap/include/gslwrap/vector_float.h
+END
