@@ -11,10 +11,11 @@ This code is the result of work by David M. Blei and Sean M. Gerrish.
 It includes software corresponding to models described in the
 following papers:
 
-[[1] D. Blei and J. Lafferty. Dynamic topic models. In
+[1] [D. Blei and J. Lafferty. Dynamic topic models. In
    Proceedings of the 23rd International Conference on Machine Learning,
    2006.](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2006a.pdf)
-[[2] S. Gerrish and D. Blei.  A Language-based Approach to Measuring
+
+[2] [S. Gerrish and D. Blei.  A Language-based Approach to Measuring
    Scholarly Impact.  In Proceedings of the 27th International Conference
    on Machine Learning, 2010.](http://www.cs.columbia.edu/~blei/papers/GerrishBlei2010.pdf)
 
