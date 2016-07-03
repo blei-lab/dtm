@@ -140,7 +140,7 @@ void update_phi(int doc_number, int time,
 		lda_post* p, lda_seq* var,
 		gsl_matrix* g) {
     int i, k, n, K = p->model->ntopics, N = p->doc->nterms;
-    double dig[p->model->ntopics];
+    double *dig = (double*) malloc (sizeof(double)*p->model->ntopics);
 
     for (k = 0; k < K; k++) {
       dig[k] = gsl_sf_psi(vget(p->gamma, k));
@@ -164,6 +164,8 @@ void update_phi(int doc_number, int time,
 	vset(&phi_row, i, exp(vget(&log_phi_row, i)));
       }
     }
+
+  free (dig);
 }
 
 
@@ -179,7 +181,7 @@ void update_phi_fixed(int doc_number, int time,
     }
 
     int i, k, n, K = p->model->ntopics, N = p->doc->nterms;
-    double dig[p->model->ntopics];
+    double *dig = (double*) malloc (sizeof(double)*p->model->ntopics);
 
     double k_sum = 0.0;
     for (k = 0; k < K; k++) {
@@ -280,6 +282,8 @@ void update_phi_fixed(int doc_number, int time,
 	vset(&phi_row, i, exp(vget(&log_phi_row, i)));
       }
     }
+
+  free (dig);
 }
 
 
