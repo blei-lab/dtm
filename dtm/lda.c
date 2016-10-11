@@ -299,7 +299,8 @@ double compute_lda_lhood(lda_post* p) {
   double lhood =
     gsl_sf_lngamma(sum(p->model->alpha)) -
     gsl_sf_lngamma(gamma_sum);
-  vset(p->lhood, K, lhood);
+  //fix issue #1
+  //vset(p->lhood, K, lhood);
   
   double influence_term = 0.0;
   double digsum = gsl_sf_psi(gamma_sum);
